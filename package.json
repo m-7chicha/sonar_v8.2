@@ -1,0 +1,10 @@
+{
+  "name": "sonar-v8.2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "cd prototype && npm install && npm run build",
+    "start": "cd prototype && npm run start",
+    "dev": "cd prototype && npm run dev"
+  }
+}
